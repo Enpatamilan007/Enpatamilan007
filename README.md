@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=%23FFFFFF&labelColor=%230077B5)]((https://www.linkedin.com/in/enpa-tamilan-9a72b826a?))
 
 ### My Stats 🔥
-![Leetcode Stats]([https://leetcard.jacoblin.cool/enpatamilan007?ext=activity])
+![Leetcode Stats](https://leetcard.jacoblin.cool/enpatamilan007?ext=activity)
 
 ####  Languages and Tools :
 
